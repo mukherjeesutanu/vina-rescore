@@ -1,0 +1,13 @@
+# Pinned to the versions this project was developed and validated against.
+# Python 3.11+ (developed on 3.13).
+rdkit==2025.09.6
+prolif==2.2.1
+MDAnalysis==2.10.0
+lightgbm==4.7.0
+scikit-learn==1.9.0
+numpy==2.4.6
+pandas==3.0.3
+scipy==1.18.0
+matplotlib==3.11.0
+vina==1.2.7
+meeko==0.8.0

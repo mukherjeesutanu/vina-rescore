@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+title: "vina-rescore: interaction-fingerprint rescoring of AutoDock Vina poses for early enrichment"
+message: "If you use this software, please cite it as below."
+type: software
+authors:
+  - given-names: "<YOUR FIRST NAME>"
+    family-names: "<YOUR LAST NAME>"
+    # orcid: "https://orcid.org/0000-0000-0000-0000"
+repository-code: "https://github.com/<your-username>/vina-rescore"
+license: MIT
+version: "0.1.0"
+date-released: "2026-09-06"
+keywords:
+  - molecular-docking
+  - autodock-vina
+  - interaction-fingerprint
+  - virtual-screening
+  - early-enrichment
+  - cheminformatics
+abstract: >
+  A modular Python pipeline that rescores AutoDock Vina docking poses using
+  protein-ligand interaction fingerprints and an interpretable classifier, and
+  benchmarks the result against raw Vina affinity for early enrichment on the
+  DUD-E CDK2 target. The scientific concept and design are the author's; coding,
+  testing, and documentation were assisted by Claude Science (Anthropic).

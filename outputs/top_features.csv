@@ -1,0 +1,6 @@
+feature,importance,signed,residue,interaction,cdk2_role,active_freq,decoy_freq,enrich_ratio
+ILE10:Hydrophobic,324.2275221850723,,ILE10,Hydrophobic,P-loop (Ile10),0.38,0.16,2.375
+LEU83:HBAcceptor,257.8050770200789,,LEU83,HBAcceptor,hinge Leu83 [HINGE],0.16,0.05,3.1999999999999997
+ASP86:Hydrophobic,241.3419494368136,,ASP86,Hydrophobic,Asp86,0.38,0.23333333333333334,1.6285714285714286
+PHE80:Hydrophobic,223.0574625506997,,PHE80,Hydrophobic,gatekeeper Phe80,0.5,0.37666666666666665,1.3274336283185841
+GLN131:Hydrophobic,220.9578595906496,,GLN131,Hydrophobic,Asp127/back pocket,0.38,0.44333333333333336,0.8571428571428571

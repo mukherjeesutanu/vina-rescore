@@ -1,0 +1,43 @@
+{
+  "root": ".",
+  "raw_dir": "/home/sutanu/.claude-science/orgs/0ca8dba4-09b8-4918-bc97-32b981f92a25/workspaces/dd481550-f78d-4bbd-a13e-0af076bd1f08/data/raw/cdk2",
+  "work_dir": "/home/sutanu/.claude-science/orgs/0ca8dba4-09b8-4918-bc97-32b981f92a25/workspaces/dd481550-f78d-4bbd-a13e-0af076bd1f08/data",
+  "out_dir": "/home/sutanu/.claude-science/orgs/0ca8dba4-09b8-4918-bc97-32b981f92a25/workspaces/dd481550-f78d-4bbd-a13e-0af076bd1f08/outputs",
+  "fig_dir": "/home/sutanu/.claude-science/orgs/0ca8dba4-09b8-4918-bc97-32b981f92a25/workspaces/dd481550-f78d-4bbd-a13e-0af076bd1f08/figures",
+  "n_actives": 50,
+  "n_decoys": 300,
+  "random_seed": 42,
+  "box_center": null,
+  "box_size": [
+    22.5,
+    22.5,
+    22.5
+  ],
+  "ph": 7.4,
+  "embed_seed": 42,
+  "exhaustiveness": 8,
+  "n_poses": 5,
+  "n_workers": 8,
+  "cpu_per_worker": 1,
+  "dock_timeout_s": 300,
+  "interactions": [
+    "HBDonor",
+    "HBAcceptor",
+    "Hydrophobic",
+    "PiStacking",
+    "CationPi",
+    "PiCation"
+  ],
+  "pocket_cutoff": 6.0,
+  "variance_threshold": 0.0,
+  "min_bit_frequency": 3,
+  "model_type": "lightgbm",
+  "cv_folds": 5,
+  "test_fraction": 0.25,
+  "bedroc_alpha": 20.0,
+  "ef_fractions": [
+    0.01,
+    0.05
+  ],
+  "top_k_features": 5
+}
