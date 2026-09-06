@@ -3,10 +3,10 @@ title: "vina-rescore: interaction-fingerprint rescoring of AutoDock Vina poses f
 message: "If you use this software, please cite it as below."
 type: software
 authors:
-  - given-names: "<YOUR FIRST NAME>"
-    family-names: "<YOUR LAST NAME>"
-    # orcid: "https://orcid.org/0000-0000-0000-0000"
-repository-code: "https://github.com/<your-username>/vina-rescore"
+  - given-names: "<Sutanu>"
+    family-names: "<Mukhopadhyay>"
+    # orcid: "https://orcid.org/0000-0001-8243-2138"
+repository-code: "https://github.com/mukherjeesutanu/vina-rescore"
 license: MIT
 version: "0.1.0"
 date-released: "2026-09-06"

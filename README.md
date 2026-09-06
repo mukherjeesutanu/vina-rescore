@@ -77,7 +77,7 @@ data/                # receptor, manifest, docked poses (large maps/raw gitignor
 Requires Python 3.11+. Dependencies are pinned in `requirements.txt`.
 
 ```bash
-git clone https://github.com/<your-username>/vina-rescore.git
+git clone https://github.com/mukherjeesutanu/vina-rescore.git
 cd vina-rescore
 conda create -n vina-rescore python=3.13 -y   # or a venv
 conda activate vina-rescore
